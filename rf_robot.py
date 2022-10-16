@@ -1,11 +1,3 @@
-# !pip install pybullet
-
-# !pip install gym
-
-# !pip install gym[box2d]
-
-# !pip install stable-baselines3
-
 import gym
 import pybullet
 import pybullet_envs
@@ -32,4 +24,3 @@ for i in range(8000):
   if mean_reward >= MAX_AVG_SCORE:
     break
 
-# def modelf
