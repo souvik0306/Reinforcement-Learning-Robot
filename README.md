@@ -5,4 +5,4 @@
 
 ## Preview - 
 
- <image src="https://github.com/souvik0306/Reinforcement-Learning-Robot/blob/main/preview.png" width="450" height="350">
+ <image src="https://github.com/souvik0306/Reinforcement-Learning-Robot/blob/main/preview.png" width="650" height="350">
